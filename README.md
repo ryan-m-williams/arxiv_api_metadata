@@ -3,7 +3,7 @@ Extract Arxiv metadata using api
 
 
 # Bulk Metadata File
-Download the bulk OAI arXiv data up to 2018.
+Download the bulk OAI arXiv data up to April of 2017.
 
 https://archive.org/details/arxiv-bulk-metadata
 
