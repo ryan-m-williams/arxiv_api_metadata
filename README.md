@@ -11,5 +11,4 @@ https://archive.org/details/arxiv-bulk-metadata
 # Metha tool for incremental OAI harvesting
 Install metha-tools and use metha-sync to harvest additional metadata
 
-https://github.com/miku/metha#installation
-
+https://github.com/miku/metha/releases
